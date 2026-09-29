@@ -1,0 +1,6 @@
+{
+  "name": "DriveGuard AI",
+  "description": "Intelligent Driver Safety & Accident Prevention Platform providing real-time computer vision driver monitoring, multi-stage adaptive intervention, and fleet telemetry.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
